@@ -207,6 +207,11 @@
               <item name="sparkproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sparkproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -226,6 +231,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sivae\sparkproject\Output" />
     </key>
   </component>
   <component name="RunDashboard">
